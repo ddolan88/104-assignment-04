@@ -1,0 +1,18 @@
+.drop:hover{
+    cursor: pointer;
+}
+
+main{
+    background-color: grey;
+    display: flex;
+    align-items: flex-start;
+}
+
+.form-container{
+    margin-left: 10px;
+    max-width: 30%;
+    margin-right: 25px;
+    padding-right: 25px;
+    border-right: 2px solid black;
+}
+
